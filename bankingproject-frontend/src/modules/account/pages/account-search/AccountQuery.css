@@ -1,0 +1,14 @@
+.site-layout-background {
+    background: #fff;
+    padding: 24px;
+    min-height: 360px;
+}
+
+.account-search-criteria-container {
+    margin-bottom: 24px;
+}
+
+.account-search-datagrid-container {
+    flex: 1;
+    overflow: auto;
+}
